@@ -1,0 +1,46 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    background-color: black;
+    color: white;
+}
+.navbar-brand img {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+#about i {
+    color:white;
+}
+.card {
+    margin-bottom: 30px;
+}
+.card-body {
+    background-color:steelblue;
+}   
+.card-icon-body {
+    width: 230px;
+    height: 30px;
+    border-radius: 10px;
+    background-color:steelblue;
+}
+footer {
+    color: white;
+    background-color:steelblue;
+}
+.titles {
+    margin-top: 30px;
+    text-align: center;
+    color: white;
+    height: 30px;
+}
+.titlePp {
+    text-align: left;
+    margin-left: 100px;
+    height: 0px;     
+}
+.titleRedes {
+    text-align: right;
+    margin-right: 100px;
+    height: 40px;
+}
